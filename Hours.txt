@@ -1,0 +1,11 @@
+ *** 5 Learning Hours ***
+ *** 1.5 Coding Hours ***
+ 
+     **Learning Material** 
+
+1) beautifulSoup functions
+2) MongoDB.atlas Connection and setup
+3) How to write Script for scrapping
+
+
+	
